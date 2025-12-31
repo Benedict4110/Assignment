@@ -34,3 +34,4 @@ public class Discount {
         System.out.println("discount:" + discount);
         System.out.println("amount to pay :" + amountToPay);
     }
+ }
