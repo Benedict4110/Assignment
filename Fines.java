@@ -49,3 +49,4 @@ public class fines {
         System.out.println("FineAmount:" + fineAmount);
 
     }
+ }
